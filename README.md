@@ -1,16 +1,16 @@
 # tp1_whack_a_mole
 
-A new Flutter project.
+CRUD
 
-## Getting Started
+Create
+Joue une partie pour ajouter ton score à la bd
 
-This project is a starting point for a Flutter application.
+Read
+Va dans Highscore pour voir tous les scores
 
-A few resources to get you started if this is your first Flutter project:
+Update 
+Va dans Socre Validator pour choisir un score et le modifier
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Delete
+Va dans Socre Validator pour choisir un score et le supprimer
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
